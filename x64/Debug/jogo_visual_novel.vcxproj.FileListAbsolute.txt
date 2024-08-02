@@ -1,0 +1,5 @@
+C:\Users\ruanl\OneDrive\Desktop\apps_portifolio\jogo_sdl\jogo_visual_novel\x64\Debug\jogo_visual_novel.exe
+C:\Users\ruanl\OneDrive\Desktop\projetos_inacabados\dvd_analise\dvd_analise\x64\Debug\jogo_visual_novel.exe
+C:\Users\ruanl\OneDrive\Desktop\git\Dvd\DvdProtetorTela\x64\Debug\jogo_visual_novel.exe
+C:\Users\ruanl\OneDrive\Desktop\git\Dvd\DvdProtetorTela\DvdProtetorTela\x64\Debug\jogo_visual_novel.exe
+C:\Users\ruanl\OneDrive\Desktop\git\Dvd\DvdProtetorTela\DvdProtetorTela\DvdProtetorTela\x64\Debug\jogo_visual_novel.exe
